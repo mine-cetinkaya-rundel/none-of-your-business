@@ -2,5 +2,5 @@
 
 Random forms that ask for gender or gendered salutation, for no good reason whatsoever!
 
-- [Register with the BBC](images/BBC.png)
+- [Register with the BBC](images/bbc.png)
 - [London Euston Station WiFi](images/london-euston.png)
